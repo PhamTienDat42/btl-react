@@ -11,13 +11,13 @@ function Cards() {
           <ul className='cards__items'>
             <CardItem
               src='images/img-9.jpg'
-              text='Explore the hidden waterfall deep inside the Amazon Jungle'
+              text='Explore the Thac-Ban-Gioc waterfall deep inside the Cao Bang - VietNam'
               label='Adventure'
               path='/services'
             />
             <CardItem
               src='images/img-2.jpg'
-              text='Travel through the Islands of Bali in a Private Cruise'
+              text='Travel through the Island of Phu Quoc - Viet Nam'
               label='Luxury'
               path='/services'
             />
@@ -25,20 +25,20 @@ function Cards() {
           <ul className='cards__items'>
             <CardItem
               src='images/img-3.jpg'
-              text='Set Sail in the Atlantic Ocean visiting Uncharted Waters'
+              text='Set Sail in the East Sea Viet Nam visiting Uncharted Waters'
               label='Mystery'
               path='/services'
             />
             <CardItem
-              src='images/img-4.jpg'
-              text='Experience Football on Top of the Himilayan Mountains'
+              src='images/img-1.jpg'
+              text='Experience on Top of the Ta-Xua Mountains in VietNam'
               label='Adventure'
               path='/products'
             />
             <CardItem
-              src='images/img-8.jpg'
-              text='Ride through the Sahara Desert on a guided camel tour'
-              label='Adrenaline'
+              src='images/img-home.jpg'
+              text='Admire the majestic beauty of HaLong Bay in VietNam'
+              label='Wonders'
               path='/sign-up'
             />
           </ul>
