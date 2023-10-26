@@ -1,17 +1,17 @@
 import React from 'react';
 import '../../App.css';
-import Signup from '../Signup';
+import Signin from '../Signin';
 
 // export default function SignUp() {
 //   return <h1 className='sign-up'>LIKE & SUBSCRIBE</h1>;
 // }
 
-function SignUp() {
+function SignIn() {
   return (
     <>
-      <Signup />
+      <Signin />
     </>
   );
 }
 
-export default SignUp;
+export default SignIn;
