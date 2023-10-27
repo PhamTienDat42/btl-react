@@ -52,6 +52,9 @@ const Signin = () => {
   return (
     <div className="signin-container">
       <form className="signin-form" onSubmit={handleSubmit}>
+        <div className="signin-header">
+          <h2>SIGN IN</h2>
+        </div>
         <label>
           Tài khoản:
           <input
