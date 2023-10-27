@@ -76,10 +76,10 @@ const Signin = () => {
           <div className="error-message">{formError.password}</div>
         </label>
         <div className="link-container">
-          <Link to="/signup">Don't have one? Signup now!</Link>
+          <Link to="/sign-up">Don't have one? Signup now!</Link>
           <br />
           <br />
-          <Link to="/">Forgot password?</Link>
+          <Link to="/sign-up">Forgot password?</Link>
         </div>
         <button type="submit">Login</button>
       </form>
