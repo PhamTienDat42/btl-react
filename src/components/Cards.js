@@ -39,7 +39,7 @@ function Cards() {
               src='images/img-home.jpg'
               text='Admire the majestic beauty of HaLong Bay in VietNam'
               label='Wonders'
-              path='/sign-up'
+              path='/services'
             />
           </ul>
         </div>
